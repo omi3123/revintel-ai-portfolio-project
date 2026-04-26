@@ -1,0 +1,20 @@
+# Python
+server/.venv/
+server/venv/
+**/__pycache__/
+**/*.pyc
+server/.pytest_cache/
+server/.env
+server/uploads/
+server/revintel.db
+
+# Node
+client/node_modules/
+client/dist/
+client/.env
+
+# OS / misc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
